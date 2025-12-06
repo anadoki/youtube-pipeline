@@ -1,6 +1,6 @@
 # YouTube Trending Video Data Pipeline and Insights Dashboard
 
-DASHBOARD LINK: https://youtube-pipeline-anadoki.streamlit.app
+**DASHBOARD LINK**: https://youtube-pipeline-anadoki.streamlit.app
 
 This project collects, processes, and analyzes data from YouTube’s Trending Videos API. It includes a data extraction script, a transformation pipeline, exploratory data analysis, and an interactive Streamlit dashboard for visualizing insights.
 
