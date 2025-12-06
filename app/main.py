@@ -9,7 +9,7 @@ from PIL import Image
 @st.cache_data 
 
 def load_data():
-    return pd.read_csv("/Users/anaghanair/Downloads/youtube-pipeline/data/youtube_clean.csv")
+    return pd.read_csv("data/youtube_clean.csv")
 
 
 #Title and data loading
