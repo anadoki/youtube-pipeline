@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+Pillow
+google-api-python-client
+python-dotenv
+jupyterlab
+seaborn
+matplotlib
