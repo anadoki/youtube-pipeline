@@ -30,6 +30,8 @@ The goal of this project is to understand patterns in trending videos, including
 
 ## Project Structure
 
+
+```bash
 youtube-pipeline/
 │
 ├── app/
@@ -48,7 +50,7 @@ youtube-pipeline/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 
 ## Installation
